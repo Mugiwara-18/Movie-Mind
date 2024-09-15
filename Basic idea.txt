@@ -1,0 +1,44 @@
+PROJJECT - CINEMATCH !!!
+
+what is the idea ??
+A end to end solution for a user to find movies to watch on the basis of his mood or on the basis of some similar movie...
+
+What should be the features ??
+* The user should be able to hold a acc. on the platform...
+* The user should able to save a watchlist of the movies he want to watch later...
+* There should be a feature of to show on which platform is the movie available..
+* User should able to use a filter about which OTT subscription he is having and based on that he gets movie recommendations of only those movies which OTT the user selected...
+* the movie recommendation should come with a poster display, description of the movie, IMDB rating, Release date, Star Cast.. 						
+
+What should the website looks like ??
+*LANDING PAGE: The page Greets the user [Cinephile].. further ideas to be planned.. 
+               Lets keep the page not too much clustered, background image should be kept as famous movies poster on a slide show type format..
+               Ask the user for a login in or sign up or guest..
+*LOGIN PAGE: Lets keep this one simple too 
+               
+*SIGN IN PAGE: Similar to login page 
+
+*SURVEY PAGE: A page designed to store data about the user favorite movies, genre, actors, directors..
+              Not sure if we gonna use that data or not we will simply implement a machine learning recommender model***8
+
+*IF NEW USER OR GUEST :
+take the user to a SURVEY PAGE where we will ask about his some favorite movies and his fav genre, Fav. actors, Fav directors, etc...
+*IF Old user take him directly to HOME PAGE...
+                
+HOME PAGE: the main page, have to make it look attractive, also try to make it interactive by using CSS properties..
+           A dialogue box type option which would ask the user to enter the genre, movie for recommendations...
+           The filter option should also be there so that user can pre select the OTT platform recommendations he wants...
+
+
+
+Why are we making this project ???
+The whole purpose of this project to find a solution to the frustrating process of scrolling through the OTT platforms for hours to decide which movie to watch 
+this process is soo tiring and frustrating sometimes that we end up watching nothing but waste our time..
+
+How to make it profitable or how to generate revenue from it ??
+To generate revenue we have to plan a long term goal that is first build a strong user base and then pitch the statistic to OTT Platforms so that they would pay for promotion of there newly launched movies That part of the project is for future development..
+
+What can we do in future ??
+*We will create a another page that displays newly launched movies, the movies that will be put there will be sponsored so that we could generate revenue of this model 
+*I do have some another features in my mind for it too we could allow the user to give reviews on movies so that other user could read them having real user reviews would help our statics better in pitching the project to OTT platforms but this would take a lot of time and resources which is not feasible for now...
+*The next step also would be to include other categories also such Webseries, Tv shows, Animes, Mangas, Web-novels, etc...
